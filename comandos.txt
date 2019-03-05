@@ -38,6 +38,8 @@ explicar stash
 : git revert hash
   -m 1 hash
 
+COMIT QUE NO VA XD
+
 
 
 
