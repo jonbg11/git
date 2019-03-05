@@ -1,0 +1,11 @@
+
+: git status
+: git clone 
+: git commit 
+  -m
+  -a
+  -- amend -m "hola"
+  
+
+
+
