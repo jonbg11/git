@@ -27,4 +27,6 @@ hacer un pull
 
 hacer nueva rama modificando el archivo para hacer un co con cambios
 hacer un commit y nuevo archivo
-hago un comit solo a un documento 
+hago un comit solo a un documento y hago push
+hacer co force
+explicar stash 
