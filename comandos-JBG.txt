@@ -1,0 +1,13 @@
+: git clone
+: git checkout
+: git status
+
+: git add
+	.ruta
+
+:git reset
+	.ruta
+
+:git commit
+	-m // permite pone run mensaje de comillas
+	-a /// ejecuta git add
