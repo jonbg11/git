@@ -35,5 +35,9 @@ explicar stash
   list
   drop
 
+: git revert hash
+  -m 1 hash
+
+
 
 
