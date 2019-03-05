@@ -5,6 +5,7 @@ Creamos un txt llamdo comandos
 : git checkout
   -b
   -f
+  hash
 : git add .
 : git add path
 : git reset .
@@ -50,6 +51,14 @@ explicar stash
  -- mixed
  --soft
  --hard
+
+:git rebase
+ -i 
+
+: git checkout branch
+
+aqui hacer un cherry pick 
+
 
 
 
