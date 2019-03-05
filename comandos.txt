@@ -10,6 +10,8 @@ Creamos un txt llamdo comandos
 : git reset .
 : git reset path
 : git commit 
+: git log 
+  --oneline
 hacemos el primer commit con el mensaje : status, add y reset
   -m
 hacemos el segundo comit con el mensaje : anotacion -m
@@ -37,6 +39,21 @@ explicar stash
 
 : git revert hash
   -m 1 hash
+
+: git revert 
+    HEAD
+    		
+: git reset
+ This means executing git reset is equivalent to executing git reset --mixed HEAD or hash
+
+-hard The Commit History ref pointers are updated to the specified commit. Then, the Staging Index and Working Directory are reset to match that of the specified commit.
+ -- mixed
+ --soft
+ --hard
+
+
+
+
 
 
 
