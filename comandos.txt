@@ -4,10 +4,10 @@ Creamos un txt llamdo comandos
 : git status
 : git checkout
   -b
-  -f 
+  -f
 : git add .
 : git add path
-: git reset . 
+: git reset .
 : git reset path
 : git commit 
 hacemos el primer commit con el mensaje : status, add y reset
@@ -16,7 +16,7 @@ hacemos el segundo comit con el mensaje : anotacion -m
   -a
 hacemos el tercer comit con el mensaje : atributo -m y amend
   -- amend -m "hola"
-Hacemos un push con origin 
+Hacemos un push con origin
 : git push
   --set-upstream origin nombre
   origin nombre
@@ -29,11 +29,11 @@ hacer nueva rama modificando el archivo para hacer un co con cambios
 hacer un commit y nuevo archivo
 hago un comit solo a un documento y hago push
 hacer co force
-explicar stash 
+explicar stash
 : git stash
   apply stash@{0}
   list
   drop
- 
+
 
 
