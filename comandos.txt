@@ -26,9 +26,5 @@ hacer un pull
 : git pull
 
 hacer nueva rama modificando el archivo para hacer un co con cambios
-hacer un commit 
-
-  
-
-
-
+hacer un commit y nuevo archivo
+hago un comit solo a un documento 
