@@ -1,10 +1,19 @@
-
+Primero clonamos el repo
+: git clone
+Creamos un txt llamdo comandos
 : git status
-: git clone 
+: git add .
+: git add path
+: git reset . 
+: git reset path
 : git commit 
+hacemos el primer commit con el mensaje : status, add y reset
   -m
+hacemos el segundo comit con el mensaje : anotacion -m
   -a
+hacemos el tercer comit con el mensaje : atributo -m y amend
   -- amend -m "hola"
+
   
 
 
