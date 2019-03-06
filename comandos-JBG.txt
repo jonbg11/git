@@ -11,3 +11,24 @@
 :git commit
 	-m // permite pone run mensaje de comillas
 	-a /// ejecuta git add
+
+:git log
+	--oneline
+
+:git push
+	origin branch
+
+$ git config --global alias.co checkout
+$ git config --global alias.br branch
+$ git config --global alias.ci commit
+$ git config --global alias.st status
+$ git config --global alias.logline log --oneline
+
+HEEEEY NO QUIERO PERDER ESTOOO
+
+: git stash
+	apply
+	list
+	apply stash@{0}
+
+commmit 1
