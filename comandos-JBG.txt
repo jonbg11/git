@@ -51,3 +51,11 @@ RESET 1
 RESET 2
 
 RESET 3
+
+
+: git cherry--pick hash
+
+COMMIT 1 CHERRY
+
+
+COMMIT 2 CHERRY
