@@ -47,3 +47,5 @@ commit 3
 	--soft
 
 RESET 1
+
+RESET 2
