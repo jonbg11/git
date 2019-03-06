@@ -34,3 +34,16 @@ HEEEEY NO QUIERO PERDER ESTOOO
 commit 1
 
 commit 2
+
+commit 3
+
+:git revert
+	HEAD
+	-m 1
+
+:git reset
+	--hard
+	--mixed
+	--soft
+
+RESET 1
